@@ -9,42 +9,12 @@ The reference paper used is [1], with the corrections suggested by [2]
 How to used:
 	call 
 
-m_NUMBER = 0 1
-m_NUMBER = 1 2
-m_NUMBER = 2 3
-m_NUMBER = 3 4
-m_NUMBER = 4 5
-m_NUMBER = 5 6
-m_NUMBER = 6 7
-m_NUMBER = 7 8
-m_NUMBER = 8 10
-m_NUMBER = 9 11
-m_NUMBER = 10 9
-m_NUMBER = 11 12
-m_NUMBER = 12 13
-m_LOWPT1 = 0 1
-m_LOWPT1 = 1 1
-m_LOWPT1 = 2 1
-m_LOWPT1 = 3 1
-m_LOWPT1 = 4 1
-m_LOWPT1 = 5 4
-m_LOWPT1 = 6 4
-m_LOWPT1 = 7 1
-m_LOWPT1 = 8 1
-m_LOWPT1 = 9 1
-m_LOWPT1 = 10 1
-m_LOWPT1 = 11 1
-m_LOWPT1 = 12 2
-m_LOWPT2 = 0 1
-m_LOWPT2 = 1 2
-m_LOWPT2 = 2 2
-m_LOWPT2 = 3 4
-m_LOWPT2 = 4 4
-m_LOWPT2 = 5 5
-m_LOWPT2 = 6 5
-m_LOWPT2 = 7 8
-m_LOWPT2 = 8 8
-m_LOWPT2 = 9 8
-m_LOWPT2 = 10 8
-m_LOWPT2 = 11 8
-m_LOWPT2 = 12 13
+-rw-rw-r--. 1 saiharsh saiharsh 684K Mar  3 18:19 'Out_CSR_100000_70logn.txt'
+-rw-rw-r--. 1 saiharsh saiharsh  69K Mar  3 18:19 'Out_CSR_10000_60logn.txt'
+-rw-rw-r--. 1 saiharsh saiharsh 6.9K Mar  3 18:19 'Out_CSR_1000_30logn.txt'
+-rw-rw-r--. 1 saiharsh saiharsh 6.9K Mar  3 18:19 'Out_CSR_1000_70logn.txt'
+-rw-rw-r--. 1 saiharsh saiharsh 206K Mar  3 18:19 'Out_CSR_30000_70logn.txt'
+-rw-rw-r--. 1 saiharsh saiharsh 3.6M Mar  3 18:19 'Out_CSR_delaunay_n19_connected'
+-rw-rw-r--. 1 saiharsh saiharsh 3.3M Mar  3 18:19 'Out_CSR_fl2010_connected'
+-rw-rw-r--. 1 saiharsh saiharsh 7.0M Mar  3 18:19 'Out_CSR_NACA0015_connected'
+-rw-rw-r--. 1 saiharsh saiharsh 2.0M Mar  3 18:19 'Out_CSR_nc2010_connected'
